@@ -5,7 +5,7 @@ arpitmh25
 
 
 🙋‍♂️ About Me
-🌱 I’m currently learning Full Stack Developer
+🌱 I’m currently learning as a Full Stack Developer
 
 👯 I’m looking to collaborate on OpenSource Projects
 
