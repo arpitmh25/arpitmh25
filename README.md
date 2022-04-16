@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey there , I'm Arpit
+arpitmh25
 
-<!--
-**arpitmh25/arpitmh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋‍♂️ About Me
+🌱 I’m currently learning Full Stack Developer.
+
+👯 I’m looking to collaborate on OpenSource Projects
+
+📫 How to reach me arpitmh25@gmail.com
+
+⚡ Fun fact I Love exploring
+
+🚀 Languages and Tools:
+java  mysql  html  css  react  javascript springboot
+
+
